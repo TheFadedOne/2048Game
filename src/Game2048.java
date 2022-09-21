@@ -6,6 +6,7 @@ public class Game2048 {
 		startGame();
 	}
 	
+	//Starts game by loading game frame
 	public static void startGame()
 	{
 		new GameFrame();
